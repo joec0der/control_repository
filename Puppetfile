@@ -1,6 +1,6 @@
 forge 'https://forge.puppet.com'
 
-mod 'apache'
+mod 'apache',
   :git => 'https://github.com/joec0der/puppet-apache'
 
 # Modules from the Puppet Forge
